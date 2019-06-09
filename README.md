@@ -1,2 +1,2 @@
-# Distribucion-Binomial
+# Distribución-Binomial
 Estadistica con funcion factorial
